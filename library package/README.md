@@ -1,4 +1,5 @@
 # Library Package
+Download the SVG file and resource file. Add the library by using enuSpace program.
 
 ## logic
 
