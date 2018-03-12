@@ -4,6 +4,8 @@ gitbook : [enuSpace Guide](https://expnuni.gitbooks.io/enuspace)
 
 Provides technical resources related to enuSpace. The Knowledge Base includes sample tasks and sample projects.
 
+enuSpace는 다기능 소프트웨어 개발 플랫폼입니다. 본 사이트에서는 관련문서 및 샘플을 제공합니다.
+
 ## About enuSpace ?
 
 enuSpace는 HMI/SCADA/DCS/IOT분야에서 활용되는 다기능 통합개발자 솔루션입니다. 그래픽 편집 및 런타임 뷰어 기능을 포함하고 있으며, 동적 데이터 가시화 도구를 제공합니다. 객체 지향 프로그래밍(Object Oriented Programming:OOP)개념을 도입한 사용자정의 라이브러리를 생성하여 그래픽 컴포넌트로 적용 가능합니다.
