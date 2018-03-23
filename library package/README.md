@@ -1,6 +1,17 @@
 # Library Package
 Download the SVG file and resource file. Add the library by using enuSpace program.
 
+## hmi
+
+### hmi_symbol
+
+hmi graphics components.
+
+Symbol preview
+
+![Alt text](image/hmi_symbol.png "hmi Symbol Preview")
+
+
 ## logic
 
 ### iot-symbol
