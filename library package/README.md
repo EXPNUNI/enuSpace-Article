@@ -7,7 +7,7 @@ Download the SVG file and resource file. Add the library by using enuSpace progr
 
 hmi graphics components.
 
-Symbol preview
+Symbol preview (HMI_SYMBOL.svg)
 
 ![Alt text](image/hmi_symbol.png "hmi Symbol Preview")
 
@@ -18,6 +18,6 @@ Symbol preview
 
 Logic-based IoT graphics components.
 
-Symbol preview
+Symbol preview (IOT_SYMBOL.svg)
 
 ![Alt text](image/iot_symbol_preview.png "IoT Symbol Preview")
