@@ -7,7 +7,7 @@ Download the SVG file and resource file. Add the library by using enuSpace progr
 
 hmi graphics components.
 
-Symbol preview (HMI_SYMBOL.svg)
+Symbol preview (hmi_gauge.svg)
 
 ![Alt text](image/hmi_symbol.png "hmi Symbol Preview")
 
