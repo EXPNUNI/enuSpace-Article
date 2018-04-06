@@ -2,8 +2,12 @@
 
 enuSpace와 관련된 이슈사항과 문서 및 샘플을 등록합니다. 
 
+gitbook : [enuSpace Release](https://expnuni.gitbooks.io/enuspace/download.html)
 gitbook : [enuSpace Guide](https://expnuni.gitbooks.io/enuspace)
 
+gitbook : [enuSpace Tensorflow](https://expnuni.gitbooks.io/enuspacetensorflow/content/)
+Homepage: [Expansion & Universal](http://www.enu-tech.co.kr/)
+Youtube : [Expansion & Universal](https://www.youtube.com/user/enuentertainment/)
 
 Provides technical resources related to enuSpace. The Knowledge Base includes sample tasks and sample projects.
 
