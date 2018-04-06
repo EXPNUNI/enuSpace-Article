@@ -1,6 +1,7 @@
 # enuSpace-Article
 
 enuSpace와 관련된 이슈사항과 문서 및 샘플을 등록합니다. 
+enuSpace 사용중 관련 문의 사항이나 오류사항을 이슈에 등록하여 주시기 바랍니다.
 
 gitbook : [enuSpace Release](https://expnuni.gitbooks.io/enuspace/download.html)
 
