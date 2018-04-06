@@ -1,6 +1,9 @@
 # enuSpace-Article
 
+enuSpace와 관련된 이슈사항과 문서 및 샘플을 등록합니다. 
+
 gitbook : [enuSpace Guide](https://expnuni.gitbooks.io/enuspace)
+
 
 Provides technical resources related to enuSpace. The Knowledge Base includes sample tasks and sample projects.
 
