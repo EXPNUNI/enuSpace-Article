@@ -33,10 +33,6 @@ Symbol preview (hmi_gauge.svg)
 
 ![Alt text](library%20package/image/hmi_symbol.png "hmi Symbol Preview")
 
-Symbol preview 
-
-![Alt text](library%20package/image/plant_symbol.png "plant Symbol Preview")
-
 ### 2.2. logic
 
 #### iot-symbol
